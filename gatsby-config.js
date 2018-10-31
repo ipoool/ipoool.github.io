@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'ipoool\'s blog',
+    title: 'Ipoool\'s Blog',
     author: 'Asep Saepulloh',
     description: 'Catatan Developer Depok.',
     siteUrl: 'https://ipoool.github.io/',
