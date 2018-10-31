@@ -10,10 +10,10 @@ Gue akan nulis semua ilmu yang gue tau, dan akan buat tutorialnya.
 
 Alasannya karena gue mau buat jejak digital tentang apa yang selama ini gue pelajari dari orang
 disekitar gue. Apa yang mereka kasih harusnya gak gue nikmatin sendiri. 
-Dengan cara sekecil ini semoga akan jadi amal [i]jariyah[/i] untuk orang-orang yang 
+Dengan cara sekecil ini semoga akan jadi amal *jariyah* untuk orang-orang yang 
 pernah memberikan ilmunya ke gue.
 
-Oh ya, I have a great quote from Imam Syafi'i :
+Oh ya, I have a great quote from Imam *Syafi'i* :
 > Ilmu itu bagaikan binatang buruan, sedangkan pena adalah pengikatnya,
 > maka ikatlah buruanmu dengan tail yang kuat.
 > Alangkah bodohnya jika kamu mendapatkan kijang (binatang buruan)
