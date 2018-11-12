@@ -24,24 +24,27 @@ class BlogIndex extends React.Component {
           title={siteTitle}
         />
         <Bio />
+
+        <div className='ui one cards'>
         {posts.map(({ node }) => {
           const title = get(node, 'frontmatter.title') || node.fields.slug
           return (
-            <div key={node.fields.slug}>
-              <h3
-                style={{
-                  marginBottom: rhythm(1 / 4),
-                }}
-              >
-                <Link style={{ boxShadow: 'none' }} to={node.fields.slug}>
-                  {title}
-                </Link>
-              </h3>
-              <small>{node.frontmatter.date}</small>
-              <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
+            <div className='ui fluid card' key={node.fields.slug}>
+              <div className='ui stacked basic segment'>
+                <div className='content'>
+                  <div className='header'>
+                    <Link style={{ boxShadow: 'none', fontSize: '24px', fontWeight: 'bold', color: '#3d3d3d' }} to={node.fields.slug}>
+                      {title}
+                    </Link>
+                  </div>
+                  <small>{node.frontmatter.date}</small>
+                  <p style={{marginTop: '10px'}} dangerouslySetInnerHTML={{ __html: node.excerpt }} />
+                </div>
+              </div>
             </div>
           )
         })}
+        </div>
       </Layout>
     )
   }

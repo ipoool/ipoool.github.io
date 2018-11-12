@@ -1,9 +1,9 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
-
 import SupportStack from './SupportStack'
 import { rhythm, scale } from '../utils/typography'
+import 'semantic-ui-css/semantic.min.css'
 
 class Template extends React.Component {
   render() {
@@ -37,8 +37,7 @@ class Template extends React.Component {
         <h3
           style={{
             fontFamily: 'Montserrat, sans-serif',
-            marginTop: 0,
-            marginBottom: rhythm(-1),
+            margin: 10,
           }}
         >
           <Link
@@ -55,19 +54,13 @@ class Template extends React.Component {
       )
     }
     return (
-      <div
-        style={{
-          marginLeft: 'auto',
-          marginRight: 'auto',
-          maxWidth: rhythm(24),
-          padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
-        }}
-      >
-        {header}
-        {children}
+      <div className='ui text container'>
+        <div className='ui segments' style={{border:'none', boxShadow: 'none'}}>
+          {header}
+          {children}
 
-
-        <SupportStack />
+          <SupportStack />
+        </div>
       </div>
     )
   }

@@ -5,7 +5,7 @@ import travisIcon from '../assets/travis-ci-icon.svg';
 
 export default function SupportStack() {
     return (
-        <div style={{width:'100%', marginTop: '60px', padding: '10px'}}>
+        <div style={{width:'100%', marginTop: '60px', padding: '10px', textAlign: 'right'}}>
             <p style={{fontSize: '14px', margin: '0px', marginBottom: '15px', color: '#7f7f7f'}}>Powered by :</p>
             <div>
                 <img src={gatsbyIcon} width="40px" style={{marginRight:'15px'}} />
