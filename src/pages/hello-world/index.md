@@ -5,8 +5,7 @@ date: "2018-10-27T22:18:15.284Z"
 
 Selamat datang di blog gue
 
-Sebuah catatan kecil tentang tutorial-tutorial seputar "Dunia Teknologi".
-Gue akan nulis semua ilmu yang gue tau, dan akan buat tutorialnya.
+Sebuah catatan kecil tentang apa yang gue tau selama ini dan gue coba sharing dari situs kecil ini.
 
 Alasannya karena gue mau buat jejak digital tentang apa yang selama ini gue pelajari dari orang
 disekitar gue. Apa yang mereka kasih harusnya gak gue nikmatin sendiri. 
