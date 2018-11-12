@@ -25,7 +25,7 @@ class BlogIndex extends React.Component {
         />
         <Bio />
 
-        <div className='ui one cards'>
+        <div className='ui one cards' id="page-content">
         {posts.map(({ node }) => {
           const title = get(node, 'frontmatter.title') || node.fields.slug
           return (
@@ -33,7 +33,7 @@ class BlogIndex extends React.Component {
               <div className='ui stacked basic segment'>
                 <div className='content'>
                   <div className='header'>
-                    <Link style={{ boxShadow: 'none', fontSize: '24px', fontWeight: 'bold', color: '#3d3d3d' }} to={node.fields.slug}>
+                    <Link style={{ boxShadow: 'none', color: '#3d3d3d' }} to={node.fields.slug}>
                       {title}
                     </Link>
                   </div>

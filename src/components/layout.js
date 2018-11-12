@@ -4,6 +4,7 @@ import { Link } from 'gatsby'
 import SupportStack from './SupportStack'
 import { rhythm, scale } from '../utils/typography'
 import 'semantic-ui-css/semantic.min.css'
+import '../assets/style.css'
 
 class Template extends React.Component {
   render() {
@@ -14,10 +15,12 @@ class Template extends React.Component {
     if (location.pathname === rootPath) {
       header = (
         <h1
+          className='headerText'
           style={{
             ...scale(1.5),
             marginBottom: rhythm(1.5),
             marginTop: 0,
+            textAlign: "center",
           }}
         >
           <Link
@@ -36,8 +39,8 @@ class Template extends React.Component {
       header = (
         <h3
           style={{
-            fontFamily: 'Montserrat, sans-serif',
-            margin: 10,
+            marginBottom: 10,
+            marginTop: 10,
           }}
         >
           <Link

@@ -15,6 +15,7 @@ class Bio extends React.Component {
           marginTop: rhythm(1.5),
           marginBottom: rhythm(2.5),
         }}
+        className='bio-box'
       >
         <img
           src='https://pbs.twimg.com/profile_images/895846016611524608/GnChDu7E_normal.jpg'
