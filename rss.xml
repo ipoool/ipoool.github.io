@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ipoool's Blog]]></title><description><![CDATA[Catatan Developer Depok.]]></description><link>https://ipoool.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 12 Nov 2018 04:44:21 GMT</lastBuildDate><item><title><![CDATA[Create a Github Pages]]></title><description><![CDATA[Hari ini gue mau  share  sedikit tentang cara membuat Github Pages Untuk yang mau tau apa itu Github Pages, Silakan baca  disini . Oke, kita…]]></description><link>https://ipoool.github.io//create-a-github-pages/</link><guid isPermaLink="false">https://ipoool.github.io//create-a-github-pages/</guid><pubDate>Mon, 12 Nov 2018 10:23:15 GMT</pubDate><content:encoded>&lt;p&gt;Hari ini gue mau &lt;em&gt;share&lt;/em&gt; sedikit tentang cara membuat Github Pages&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ipoool's Blog]]></title><description><![CDATA[Catatan Developer Depok.]]></description><link>https://ipoool.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 12 Nov 2018 05:09:59 GMT</lastBuildDate><item><title><![CDATA[Create a Github Pages]]></title><description><![CDATA[Hari ini gue mau  share  sedikit tentang cara membuat Github Pages. Untuk yang mau tau apa itu Github Pages, Silakan baca  disini . Oke…]]></description><link>https://ipoool.github.io//create-a-github-pages/</link><guid isPermaLink="false">https://ipoool.github.io//create-a-github-pages/</guid><pubDate>Mon, 12 Nov 2018 10:23:15 GMT</pubDate><content:encoded>&lt;p&gt;Hari ini gue mau &lt;em&gt;share&lt;/em&gt; sedikit tentang cara membuat Github Pages.&lt;/p&gt;
 &lt;p&gt;Untuk yang mau tau apa itu Github Pages, Silakan baca &lt;a href=&quot;https://help.github.com/articles/what-is-github-pages/&quot; title=&quot;What is Github Pages&quot;&gt;disini&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Oke, kita langsung aja :&lt;/p&gt;
-&lt;p&gt;Buat temen-temen yang belum memiliki akun Github. Silakan &lt;em&gt;register&lt;/em&gt; terlebih dahulu &lt;a href=&quot;https://github.com/join?source=login&quot; title=&quot;Register Github Account&quot;&gt;disini&lt;/a&gt;, tetapi jika temen-temen sudah punya. Kita bisa lanjut ke tahap selanjutnya.&lt;/p&gt;
+&lt;p&gt;Buat temen-temen yang belum memiliki akun Github. Silakan &lt;em&gt;register&lt;/em&gt; terlebih dahukita &lt;a href=&quot;https://github.com/join?source=login&quot; title=&quot;Register Github Account&quot;&gt;disini&lt;/a&gt;, tetapi jika temen-temen sudah punya. Kita bisa lanjut ke tahap selanjutnya.&lt;/p&gt;
 &lt;p&gt;Temen-temen bisa membuat &lt;em&gt;Repository&lt;/em&gt; baru untuk menyimpan &lt;em&gt;file-file static&lt;/em&gt; yang akan di generate pada github pages nanti. &lt;/p&gt;
 &lt;p&gt;
   &lt;a
@@ -37,7 +37,7 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;Disini gue buat &lt;em&gt;repository&lt;/em&gt; dengan nama “my-github-page”, setelah itu kita &lt;em&gt;submit&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Disini gue buat &lt;em&gt;repository&lt;/em&gt; dengan nama “my-github-page”, setelah itu kita &lt;em&gt;submit&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -73,7 +73,7 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;Setelah &lt;em&gt;repository&lt;/em&gt; berhasil dibuat, selanjutnya kita pilih Menu &lt;em&gt;Setting&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Setelah &lt;em&gt;repository&lt;/em&gt; berhasil dibuat, selanjutnya kita pilih Menu &lt;em&gt;Setting&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -108,7 +108,7 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;Cari bagian “Github Pages” pada menu &lt;em&gt;Setting&lt;/em&gt;, pilih menu &lt;em&gt;Theme&lt;/em&gt; untuk memilih desain yang kita inginkan&lt;/p&gt;
+&lt;p&gt;Cari bagian “Github Pages” pada menu &lt;em&gt;Setting&lt;/em&gt;, pilih menu &lt;em&gt;Theme&lt;/em&gt; untuk memilih desain yang kita inginkan.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -144,7 +144,7 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;Pilih &lt;em&gt;Theme&lt;/em&gt; yang lu inginkan, Lalu tekan “Select Theme”, Setelah itu kita akan diarahkan ke halaman editor untuk merubah isi dari halaman utama.&lt;/p&gt;
+&lt;p&gt;Pilih &lt;em&gt;Theme&lt;/em&gt; yang kita inginkan, Lakita tekan “Select Theme”, Setelah itu kita akan diarahkan ke halaman editor untuk merubah isi dari halaman utama.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -180,8 +180,8 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;Disini lu bisa edit halaman utama dari github pages lu. Gunakan Markdown untuk seluruh halaman di Github Pages.
-Jika lu belum terbiasa dengan Markdown, Silakan ke &lt;a href=&quot;https://help.github.com/articles/what-is-github-pages/&quot; title=&quot;Markdown Cheatsheet&quot;&gt;halaman ini&lt;/a&gt; untuk tutorial Markdown.&lt;/p&gt;
+&lt;p&gt;Disini kita bisa edit halaman utama dari github pages lu. Gunakan Markdown untuk seluruh halaman di Github Pages.
+Jika kita belum terbiasa dengan Markdown, Silakan ke &lt;a href=&quot;https://help.github.com/articles/what-is-github-pages/&quot; title=&quot;Markdown Cheatsheet&quot;&gt;halaman ini&lt;/a&gt; untuk tutorial Markdown.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -217,7 +217,7 @@ Jika lu belum terbiasa dengan Markdown, Silakan ke &lt;a href=&quot;https://help
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;Nah, untuk setiap perubahan, kita harus commit perubahan tersebut&lt;/p&gt;
+&lt;p&gt;Nah, untuk setiap perubahan, kita harus commit perubahan tersebut.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -253,8 +253,8 @@ Jika lu belum terbiasa dengan Markdown, Silakan ke &lt;a href=&quot;https://help
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;Nah, kita sudah selesai membuat sebuah halaman &lt;em&gt;static&lt;/em&gt; pada Github Page. Sekarang kita hanya tinggal membuka halaman tersebut dengan cara:&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;nama-akun-github-lu.github.io/nama-repository&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Nah, kita sudah selesai membuat sebuah halaman &lt;em&gt;static&lt;/em&gt; pada Github Page. Sekarang kita hanya tinggal membuka halaman tersebut dengan cara:
+&lt;em&gt;nama-akun-github-lu.github.io/nama-repository&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Sebagai contoh hasil dari Tutorial diatas seperti &lt;a href=&quot;https://ipoool.github.io/my-github-page&quot;&gt;disini&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[Selamat datang di blog gue Sebuah catatan kecil tentang apa yang gue tau selama ini dan gue coba sharing dari situs kecil ini. Alasannya…]]></description><link>https://ipoool.github.io//hello-world/</link><guid isPermaLink="false">https://ipoool.github.io//hello-world/</guid><pubDate>Sat, 27 Oct 2018 22:18:15 GMT</pubDate><content:encoded>&lt;p&gt;Selamat datang di blog gue&lt;/p&gt;
 &lt;p&gt;Sebuah catatan kecil tentang apa yang gue tau selama ini dan gue coba sharing dari situs kecil ini.&lt;/p&gt;
 &lt;p&gt;Alasannya karena gue mau buat jejak digital tentang apa yang selama ini gue pelajari dari orang
