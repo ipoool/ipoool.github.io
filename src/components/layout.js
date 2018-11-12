@@ -1,6 +1,8 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
+
+import SupportStack from './SupportStack'
 import { rhythm, scale } from '../utils/typography'
 
 class Template extends React.Component {
@@ -63,6 +65,9 @@ class Template extends React.Component {
       >
         {header}
         {children}
+
+
+        <SupportStack />
       </div>
     )
   }
