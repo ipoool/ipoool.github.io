@@ -1,6 +1,4 @@
 const { Helmet } = require("react-helmet")
-const { renderToString } = require("react-dom/server")
-const inline = require("glamor-inline")
 
 exports.onRenderBody = (
   { setHeadComponents, setHtmlAttributes, setBodyAttributes },
@@ -18,10 +16,3 @@ exports.onRenderBody = (
     helmet.style.toComponent(),
   ])
 }
-
-exports.replaceRenderer = ({ bodyComponent, replaceBodyHTMLString }) => {
-    const bodyHTML = renderToString(bodyComponent)
-    const inlinedHTML = inline(bodyHTML)
-  
-    replaceBodyHTMLString(inlinedHTML)
-  }
