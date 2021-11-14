@@ -5,11 +5,11 @@ module.exports = {
   images: {
     domains: ["storage.googleapis.com"],
   },
-  exportPathMap: async function () {
-    return {
-      "/": {
-        page: "/",
-      },
-    };
-  },
+  //   exportPathMap: async function () {
+  //     return {
+  //       "/": {
+  //         page: "/",
+  //       },
+  //     };
+  //   },
 };
