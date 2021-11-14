@@ -1,7 +1,6 @@
 module.exports = {
   reactStrictMode: false,
-  basePath: "/ipoool.io",
-  assetPrefix: "/ipoool.io/",
+  assetPrefix: "/",
   images: {
     domains: ["storage.googleapis.com"],
   },
