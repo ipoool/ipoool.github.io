@@ -1,5 +1,4 @@
 import Head from "next/head";
-import Image from "next/image";
 import { HeartIcon } from "@heroicons/react/solid";
 
 export default function Home() {
@@ -56,7 +55,12 @@ export default function Home() {
                 </div>
               </div>
               <div className="relative order-first md:order-last">
-                <Image src="/its-mee.GIF" width={500} height={500} />
+                <img
+                  src="https://storage.googleapis.com/ipoool_site/its-mee.GIF"
+                  alt="Ssstt... the real one better than it"
+                  width={500}
+                  height={500}
+                />
               </div>
             </div>
           </div>
