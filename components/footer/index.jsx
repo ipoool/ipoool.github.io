@@ -7,12 +7,14 @@ function Footer() {
         <div className="text-gray-400 text-base md:text-lg font-bold">
           made with
         </div>
-        <div>
+        <div className="flex flex-row">
+          <span>🇮🇩</span>
           <HeartIcon
             width={15}
             height={15}
             className="text-red-300 animate-ping"
           />
+          <span>🇵🇸</span>
         </div>
       </div>
       <div className="flex flex-row items-center justify-center space-x-2 mt-2">

@@ -27,7 +27,7 @@ export default function Home() {
                   </div>
                   <p className="text-base md:text-2xl text-gray-500">
                     Senior Software Engineer @{" "}
-                    <span className="text-green-700 font-bold">Grab</span>
+                    <span className="text-red-700 font-bold">Tiptip</span>
                   </p>
                 </div>
                 <div className="py-2 md:py-4 rounded-xl mt-6 flex flex-row space-x-6">
@@ -93,7 +93,7 @@ export default function Home() {
               </div>
               <div className="relative order-first md:order-last">
                 <img
-                  src="https://storage.googleapis.com/ipoool_site/its-mee.GIF"
+                  src="https://avatars.githubusercontent.com/u/4758605?v=4"
                   alt="Hmmm... your connection not stable. that's why you can see this text"
                   width={500}
                   height={500}
